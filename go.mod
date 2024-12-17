@@ -1,1 +1,1 @@
-module protos
+module github.com/pingvincible/protos
